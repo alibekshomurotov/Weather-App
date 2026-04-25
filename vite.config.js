@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/weather/', // GitHub repongiz nomi
+  base: '/Weather-App/', // GitHub repongiz nomi
 })
